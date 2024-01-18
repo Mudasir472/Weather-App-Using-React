@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Mudasir472/Weather-App-Using-React.git/static/css/main.91d9a7e0.css",
+    "main.js": "/Mudasir472/Weather-App-Using-React.git/static/js/main.88bf9c6c.js",
+    "static/js/787.42650831.chunk.js": "/Mudasir472/Weather-App-Using-React.git/static/js/787.42650831.chunk.js",
+    "static/media/clouds.png": "/Mudasir472/Weather-App-Using-React.git/static/media/clouds.058d1121e95348721a5e.png",
+    "static/media/snow.png": "/Mudasir472/Weather-App-Using-React.git/static/media/snow.c8ed556c8e144314a339.png",
+    "index.html": "/Mudasir472/Weather-App-Using-React.git/index.html",
+    "main.91d9a7e0.css.map": "/Mudasir472/Weather-App-Using-React.git/static/css/main.91d9a7e0.css.map",
+    "main.88bf9c6c.js.map": "/Mudasir472/Weather-App-Using-React.git/static/js/main.88bf9c6c.js.map",
+    "787.42650831.chunk.js.map": "/Mudasir472/Weather-App-Using-React.git/static/js/787.42650831.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91d9a7e0.css",
+    "static/js/main.88bf9c6c.js"
+  ]
+}
